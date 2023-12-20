@@ -1,8 +1,8 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
 :root {
-    --bgColor:#b976c7;
-    --accentColor: rgb(14, 12, 12);
+    --bgColor: rgb(240, 239, 244);
+    --accentColor: rgb(216, 49, 91);
     --font: 'Karla', sans-serif;
 }
 
